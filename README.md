@@ -1,3 +1,4 @@
+
 # GIT & GITHUB
 
 Repositório destinado a prática básica de GIT e GITHUB 
@@ -10,3 +11,10 @@ Repositório destinado a prática básica de GIT e GITHUB
 - Vinculando o GITHUB ao arquivo local
 - GITCLONE
 - Funcionalidades do GITHUB 
+
+
+
+## CheatSheet sobre GIT
+
+(https://storage.googleapis.com/golden-wind/explorer/material-rico/Documentacao_Git.pdf)
+
