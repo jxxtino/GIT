@@ -12,7 +12,10 @@ Repositório destinado a prática básica de GIT e GITHUB
 - GITCLONE
 - Funcionalidades do GITHUB 
 
+## Comandos Git
 
+- git clone
+- git 
 
 ## CheatSheet sobre GIT
 
