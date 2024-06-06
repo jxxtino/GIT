@@ -15,7 +15,9 @@ Repositório destinado a prática básica de GIT e GITHUB
 ## Comandos Git
 
 - git clone
-- git 
+- git remote
+- git push
+- git pull
 
 ## CheatSheet sobre GIT
 
