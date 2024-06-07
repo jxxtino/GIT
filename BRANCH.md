@@ -6,4 +6,3 @@ Praticando a interação e comunicação entre Branchs
 
 - git branch
 - git checkout
-- git merge
